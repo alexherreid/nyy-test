@@ -1,7 +1,0 @@
-{
-  "main": {
-    "header": "Welcome to the app!",
-	"header2": "phrase inside utils",
-	  "locale": "en"
-  }
-}
