@@ -1,0 +1,14 @@
+{
+	"common": {
+		"cancel": "ko Cancel",
+		"delete": "ko Delete",
+		"DEMO-PHRASE-1": "ko PHRASE 1",
+		"DEMO-PHRASE-2": "ko PHRASE 2",
+		"submit": "ko Submit"
+	},
+	"languageNameEnglish": "Korean",
+	"languageNameLocal": "한국어",
+	"locale": "ko",
+	"site": "react-utils",
+	"translationVersion": "0.1-dev"
+}

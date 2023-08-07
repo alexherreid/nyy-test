@@ -1,0 +1,14 @@
+{
+	"common": {
+		"cancel": "es Cancel",
+		"delete": "es Delete",
+		"DEMO-PHRASE-1": "es PHRASE 1",
+		"DEMO-PHRASE-2": "es PHRASE 2",
+		"submit": "es Submit"
+	},
+	"languageNameEnglish": "Spanish",
+	"languageNameLocal": "Español",
+	"locale": "es",
+	"site": "react-utils",
+	"translationVersion": "0.1-dev"
+}
