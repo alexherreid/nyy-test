@@ -1,0 +1,46 @@
+{
+	"common": {
+		"cancel": "es Cancel",
+		"delete": "es Delete",
+		"submit": "es Submit"
+	},
+	"feedback": {
+		"add-attachment": "es Add Another Attachment",
+		"attachments": "es Attachments",
+		"choose-file": "es Choose File",
+		"details": "es Details",
+		"enter-details": "es Enter Details",
+		"enter-summary": "es Enter Summary",
+		"select-type": "es Select Type",
+		"submit-feedback": "es Submit Feedback",
+		"summary": "es Summary",
+		"type": "es Type"
+	},
+	"home": {
+		"cage-sessions": "es Cage Sessions",
+		"catcher-strengths": "es Catcher Strengths",
+		"current-series": "es Current Series",
+		"game-logs": "es Game Logs",
+		"hitter-strengths": "es Hitter Strengths",
+		"my-objectives": "es My Objectives",
+		"opponents": "es Opponents",
+		"pitcher-strengths": "es Pitcher Strengths",
+		"today": "es Today",
+		"tomorrow": "es Tomorrow",
+		"upcoming-series": "es Upcoming Series",
+		"video-playlists": "es Video/Playlists",
+		"workload-mechanics": "es Workload/Mechanics"
+	},
+	"languageNameEnglish": "Spanish",
+	"languageNameLocal": "Español",
+	"locale": "es",
+	"nav": {
+		"copyright": "ES Materials in this report are for New York Yankees internal use only. No part of this document may be reproduced without permission from the New York Yankees. ES",
+		"logged-in-as": "es Logged in as",
+		"select-a-player": "es Select a Player",
+		"select-a-team": "es Select a Team",
+		"submit-feedback": "es Submit Feedback"
+	},
+	"site": "player-portal",
+	"translationVersion": "0.1-dev"
+}

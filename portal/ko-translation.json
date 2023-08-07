@@ -1,0 +1,46 @@
+{
+	"common": {
+		"cancel": "ko Cancel",
+		"delete": "ko Delete",
+		"submit": "ko Submit"
+	},
+	"feedback": {
+		"add-attachment": "ko Add Another Attachment",
+		"attachments": "ko Attachments",
+		"choose-file": "ko Choose File",
+		"details": "ko Details",
+		"enter-details": "ko Enter Details",
+		"enter-summary": "ko Enter Summary",
+		"select-type": "ko Select Type",
+		"submit-feedback": "ko Submit Feedback",
+		"summary": "ko Summary",
+		"type": "ko Type"
+	},
+	"home": {
+		"cage-sessions": "ko Cage Sessions",
+		"catcher-strengths": "ko Catcher Strengths",
+		"current-series": "ko Current Series",
+		"game-logs": "ko Game Logs",
+		"hitter-strengths": "ko Hitter Strengths",
+		"my-objectives": "ko My Objectives",
+		"opponents": "ko Opponents",
+		"pitcher-strengths": "ko Pitcher Strengths",
+		"today": "ko Today",
+		"tomorrow": "ko Tomorrow",
+		"upcoming-series": "ko Upcoming Series",
+		"video-playlists": "ko Video/Playlists",
+		"workload-mechanics": "ko Workload/Mechanics"
+	},
+	"languageNameEnglish": "Korean",
+	"languageNameLocal": "한국어",
+	"locale": "ko",
+	"nav": {
+		"copyright": "KO Materials in this report are for New York Yankees internal use only. No part of this document may be reproduced without permission from the New York Yankees. KO",
+		"logged-in-as": "ko Logged in as",
+		"select-a-player": "ko Select a Player",
+		"select-a-team": "ko Select a Team",
+		"submit-feedback": "ko Submit Feedback"
+	},
+	"site": "player-portal",
+	"translationVersion": "0.1-dev"
+}
