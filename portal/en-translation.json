@@ -1,5 +1,6 @@
 {
 	"common": {
+		"back-to-home": "Back to Home",
 		"cancel": "Cancel",
 		"close": "Close",
 		"copyright": "Materials in this report are for New York Yankees internal use only. No part of this document may be reproduced without permission from the New York Yankees.",
@@ -7,12 +8,15 @@
 		"go": "Go",
 		"login": "Login",
 		"logout": "Logout",
+		"please-wait": "Please Wait...",
 		"select-a-player": "Select a Player",
 		"select-a-team": "Select a Team",
-		"site-name": "Player Portal",
+		"site-name-dugout": "Yankees Dugout",
+		"site-name-portal": "Player Portal",
 		"submit": "Submit",
 		"today": "Today",
 		"tomorrow": "Tomorrow",
+		"try-again": "Try Again",
 		"vs-lhp": "vs LHP",
 		"vs-rhp": "vs RHP"
 	},
@@ -35,6 +39,7 @@
 		"my-objectives": "My Objectives",
 		"no-events": "No Events",
 		"no-games": "No games to display",
+		"opponent-matchups": "Opponent Matchups",
 		"opponents": "Opponents",
 		"series-current": "Current Series",
 		"series-previous": "Previous Series",
@@ -55,7 +60,9 @@
 		"language": "Language",
 		"language-options": "Language Options",
 		"language-reset": "Reset Language Preferences",
+		"loading-user": "Loading logged in user, please wait...",
 		"logged-in-as": "Logged in as",
+		"render-error": "An error is preventing this content from being displayed. If this problem persists, please notify a coach or staff member.",
 		"submit-feedback": "Submit Feedback"
 	},
 	"site": "player-portal",

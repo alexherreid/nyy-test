@@ -1,5 +1,6 @@
 {
 	"common": {
+		"back-to-home": "ko Back to Home",
 		"cancel": "ko Cancel",
 		"close": "ko Close",
 		"copyright": "KO Materials in this report are for New York Yankees internal use only. No part of this document may be reproduced without permission from the New York Yankees. KO",
@@ -7,12 +8,15 @@
 		"go": "ko Go",
 		"login": "ko Login",
 		"logout": "ko Logout",
+		"please-wait": "ko Please Wait...",
 		"select-a-player": "ko Select a Player",
 		"select-a-team": "ko Select a Team",
-		"site-name": "ko Player Portal",
+		"site-name-dugout": "ko Yankees Dugout",
+		"site-name-portal": "ko Player Portal",
 		"submit": "ko Submit",
 		"today": "ko Today",
 		"tomorrow": "ko Tomorrow",
+		"try-again": "ko Try Again",
 		"vs-lhp": "ko vs LHP",
 		"vs-rhp": "ko vs RHP"
 	},
@@ -35,6 +39,7 @@
 		"my-objectives": "ko My Objectives",
 		"no-events": "ko No Events",
 		"no-games": "ko No games to display",
+		"opponent-matchups": "ko Opponent Matchups",
 		"opponents": "ko Opponents",
 		"series-current": "ko Current Series",
 		"series-previous": "ko Previous Series",
@@ -55,7 +60,9 @@
 		"language": "ko Language",
 		"language-options": "ko Language Options",
 		"language-reset": "ko Reset Language Preferences",
+		"loading-user": "ko Loading logged in user, please wait...",
 		"logged-in-as": "ko Logged in as",
+		"render-error": "ko An error is preventing this content from being displayed. If this problem persists, please notify a coach or staff member.",
 		"submit-feedback": "ko Submit Feedback"
 	},
 	"site": "player-portal",
