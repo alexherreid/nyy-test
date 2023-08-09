@@ -9,6 +9,7 @@
 	"examples": {
 		"formatters": {
 			"datetime": "Today is {{val, datetime}}",
+			"intl-number": "The formatted val would be {{val, number}}",
 			"list": "A list of values like {{val, list}}"
 		},
 		"plurals": {
