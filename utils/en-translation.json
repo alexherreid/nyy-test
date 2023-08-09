@@ -13,7 +13,8 @@
 			"num_ordinal_few": "{{count}}rd place",
 			"num_ordinal_one": "{{count}}st place",
 			"num_ordinal_other": "{{count}}th place",
-			"num_ordinal_two": "{{count}}nd place"
+			"num_ordinal_two": "{{count}}nd place",
+			"range_interval": "(1)[one item];(2-7)[a few items];(7-inf)[a lot of items];"
 		},
 		"strings": {
 			"example-a": "the persons lastname is {{last}} but their first is {{first}}",
