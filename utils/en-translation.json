@@ -18,7 +18,7 @@
 		},
 		"strings": {
 			"example-a": "the persons lastname is {{last}} but their first is {{first}}",
-			"example-b": "the pitch was a *$t(example.strings.fastball)* and it was fast!",
+			"example-b": "the pitch was a *$t(examples.strings.fastball)* and it was fast!",
 			"fastball": "fastball"
 		}
 	},
