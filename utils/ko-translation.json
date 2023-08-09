@@ -6,6 +6,21 @@
 		"DEMO-PHRASE-2": "ko PHRASE 2",
 		"submit": "ko Submit"
 	},
+	"examples": {
+		"plurals": {
+			"num-plural_one": "ko {{count}} item",
+			"num-plural_other": "ko {{count}} items",
+			"num_ordinal_few": "ko {{count}}rd place",
+			"num_ordinal_one": "ko {{count}}st place",
+			"num_ordinal_other": "ko {{count}}th place",
+			"num_ordinal_two": "ko {{count}}nd place"
+		},
+		"strings": {
+			"example-a": "ko the persons lastname is {{last}} but their first is {{first}}",
+			"example-b": "ko the pitch was a *$t(example.strings.fastball)* and it was fast!",
+			"fastball": "ko fastball"
+		}
+	},
 	"languageNameEnglish": "Korean",
 	"languageNameLocal": "한국어",
 	"locale": "ko",

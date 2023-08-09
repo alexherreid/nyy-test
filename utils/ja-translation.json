@@ -6,6 +6,21 @@
 		"DEMO-PHRASE-2": "ja PHRASE 2",
 		"submit": "ja Submit"
 	},
+	"examples": {
+		"plurals": {
+			"num-plural_one": "ja {{count}} item",
+			"num-plural_other": "ja {{count}} items",
+			"num_ordinal_few": "ja {{count}}rd place",
+			"num_ordinal_one": "ja {{count}}st place",
+			"num_ordinal_other": "ja {{count}}th place",
+			"num_ordinal_two": "ja {{count}}nd place"
+		},
+		"strings": {
+			"example-a": "ja the persons lastname is {{last}} but their first is {{first}}",
+			"example-b": "ja the pitch was a *$t(example.strings.fastball)* and it was fast!",
+			"fastball": "ja fastball"
+		}
+	},
 	"languageNameEnglish": "Japanese",
 	"languageNameLocal": "日本語",
 	"locale": "ja",

@@ -6,6 +6,21 @@
 		"DEMO-PHRASE-2": "es PHRASE 2",
 		"submit": "es Submit"
 	},
+	"examples": {
+		"plurals": {
+			"num-plural_one": "es {{count}} item",
+			"num-plural_other": "es {{count}} items",
+			"num_ordinal_few": "es {{count}}rd place",
+			"num_ordinal_one": "es {{count}}st place",
+			"num_ordinal_other": "es {{count}}th place",
+			"num_ordinal_two": "es {{count}}nd place"
+		},
+		"strings": {
+			"example-a": "es the persons lastname is {{last}} but their first is {{first}}",
+			"example-b": "es the pitch was a *$t(example.strings.fastball)* and it was fast!",
+			"fastball": "es fastball"
+		}
+	},
 	"languageNameEnglish": "Spanish",
 	"languageNameLocal": "Español",
 	"locale": "es",
