@@ -7,6 +7,10 @@
 		"submit": "es Submit"
 	},
 	"examples": {
+		"formatters": {
+			"datetime": "es Today is {{val, datetime}}",
+			"list": "es A list of values like {{val, list}}"
+		},
 		"plurals": {
 			"num-plural_one": "es {{count}} item",
 			"num-plural_other": "es {{count}} items",
