@@ -16,8 +16,8 @@
 		"site-name-dugout": "es Yankees Dugout",
 		"site-name-portal": "es Player Portal",
 		"submit": "es Submit",
-		"today": "es Today",
-		"tomorrow": "es Tomorrow",
+		"today": "Hoy",
+		"tomorrow": "Mañana",
 		"try-again": "es Try Again",
 		"vs-lhp": "es vs LHP",
 		"vs-rhp": "es vs RHP"
@@ -51,7 +51,7 @@
 		"strengths-catcher": "Puntos fuertes del receptor",
 		"strengths-hitter": "Puntos fuertes del bateador",
 		"strengths-pitcher": "Fortalezas del lanzador",
-		"video-playlists": "es Video/Playlists",
+		"video-playlists": "Vídeo/Listas de reproducción",
 		"workload-mechanics": "Carga de trabajo/Mecánica"
 	},
 	"languageNameEnglish": "Spanish",
