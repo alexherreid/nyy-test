@@ -8,9 +8,9 @@
 	},
 	"examples": {
 		"formatters": {
-			"datetime": "ko Today is {{val, datetime}}",
-			"intl-number": "ko The formatted val would be {{val, number}}",
-			"list": "ko A list of values like {{val, list}}"
+			"datetime": "ko 오늘은 {{val, datetime}}",
+			"intl-number": "ko 형식이 지정된 값은 다음과 같습니다. {{val, number}}",
+			"list": "ko 다음과 같은 값 목록 {{val, list}}"
 		},
 		"plurals": {
 			"num-plural_one": "ko {{count}} item",
@@ -19,12 +19,12 @@
 			"num_ordinal_one": "ko {{count}}st place",
 			"num_ordinal_other": "ko {{count}}th place",
 			"num_ordinal_two": "ko {{count}}nd place",
-			"range_interval": "(1)[ko one item];(2-7)[ko a few items];(7-inf)[ko a lot of items];"
+			"range_interval": "(1)[ko 한 항목];(2-7)[ko 몇 가지 항목];(7-inf)[ko 많은 항목];"
 		},
 		"strings": {
-			"example-a": "ko the persons lastname is {{last}} but their first is {{first}}",
-			"example-b": "ko the pitch was a *$t(examples.strings.fastball)* and it was fast!",
-			"fastball": "ko fastball"
+			"example-a": "ko 사람의 성은 {{last}} 하지만 그들의 첫 번째는 {{first}}",
+			"example-b": "ko 피치는 *$t(examples.strings.fastball)* 그리고 그것은 빨랐다!",
+			"fastball": "ko 패스트볼"
 		}
 	},
 	"languageNameEnglish": "Korean",

@@ -8,9 +8,9 @@
 	},
 	"examples": {
 		"formatters": {
-			"datetime": "ja Today is {{val, datetime}}",
-			"intl-number": "ja The formatted val would be {{val, number}}",
-			"list": "ja A list of values like {{val, list}}"
+			"datetime": "ja 今日は {{val, datetime}}",
+			"intl-number": "ja フォーマットされた val は次のようになります {{val, number}}",
+			"list": "ja 次のような値のリスト {{val, list}}"
 		},
 		"plurals": {
 			"num-plural_one": "ja {{count}} item",
@@ -19,12 +19,12 @@
 			"num_ordinal_one": "ja {{count}}st place",
 			"num_ordinal_other": "ja {{count}}th place",
 			"num_ordinal_two": "ja {{count}}nd place",
-			"range_interval": "(1)[ja one item];(2-7)[ja a few items];(7-inf)[ja a lot of items];"
+			"range_interval": "(1)[ja 一品];(2-7)[ja いくつかのアイテム];(7-inf)[ja たくさんのアイテム];"
 		},
 		"strings": {
-			"example-a": "ja the persons lastname is {{last}} but their first is {{first}}",
-			"example-b": "ja the pitch was a *$t(examples.strings.fastball)* and it was fast!",
-			"fastball": "ja fastball"
+			"example-a": "ja その人の姓は {{last}} しかし、彼らの最初のものは {{first}}",
+			"example-b": "ja ピッチは *$t(examples.strings.fastball)* そして速かった!",
+			"fastball": "ja 速球"
 		}
 	},
 	"languageNameEnglish": "Japanese",

@@ -8,9 +8,9 @@
 	},
 	"examples": {
 		"formatters": {
-			"datetime": "es Today is {{val, datetime}}",
-			"intl-number": "es The formatted val would be {{val, number}}",
-			"list": "es A list of values like {{val, list}}"
+			"datetime": "Hoy es {{val, datetime}}",
+			"intl-number": "El val formateado sería {{val, number}}",
+			"list": "Una lista de valores como {{val, list}}"
 		},
 		"plurals": {
 			"num-plural_one": "es {{count}} item",
@@ -19,12 +19,12 @@
 			"num_ordinal_one": "es {{count}}st place",
 			"num_ordinal_other": "es {{count}}th place",
 			"num_ordinal_two": "es {{count}}nd place",
-			"range_interval": "(1)[es one item];(2-7)[es a few items];(7-inf)[es a lot of items];"
+			"range_interval": "(1)[es un item];(2-7)[algunos artículos];(7-inf)[un montón de artículos];"
 		},
 		"strings": {
-			"example-a": "es the persons lastname is {{last}} but their first is {{first}}",
-			"example-b": "es the pitch was a *$t(examples.strings.fastball)* and it was fast!",
-			"fastball": "es fastball"
+			"example-a": "el apellido de la persona es {{last}} Pero el primero es {{first}}",
+			"example-b": "el campo era un *$t(examples.strings.fastball)* y fue rapido!",
+			"fastball": "bola rápida"
 		}
 	},
 	"languageNameEnglish": "Spanish",
