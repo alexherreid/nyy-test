@@ -4,6 +4,7 @@
 		"cancel": "ko Cancel",
 		"close": "ko Close",
 		"copyright": "KO 이 보고서의 자료는 New York Yankees 내부 전용입니다. 이 문서의 어떤 부분도 New York Yankees의 허가 없이 복제할 수 없습니다.",
+		"date": "{{val, datetime}}",
 		"delete": "ko Delete",
 		"go": "ko Go",
 		"login": "ko Login",

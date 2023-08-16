@@ -4,6 +4,7 @@
 		"cancel": "Cancel",
 		"close": "Close",
 		"copyright": "Materials in this report are for New York Yankees internal use only. No part of this document may be reproduced without permission from the New York Yankees.",
+		"date": "{{val, datetime}}",
 		"delete": "Delete",
 		"go": "Go",
 		"login": "Login",

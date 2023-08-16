@@ -4,6 +4,7 @@
 		"cancel": "ja Cancel",
 		"close": "ja Close",
 		"copyright": "JA このレポートの資料は、ニューヨーク ヤンキースの内部使用のみを目的としています。 本書のいかなる部分も、ニューヨーク ヤンキースの許可なく複製することはできません。",
+		"date": "{{val, datetime}}",
 		"delete": "ja Delete",
 		"go": "ja Go",
 		"login": "ja Login",
