@@ -2,7 +2,7 @@
 	"common": {
 		"cancel": "ko Cancel",
 		"delete": "ko Delete",
-		"DEMO-PHRASE-1": "ko PHRASE 1",
+		"DEMO-PHRASE-1": "ko 이것은 데모 문구입니다",
 		"DEMO-PHRASE-2": "ko PHRASE 2",
 		"submit": "ko Submit"
 	},
