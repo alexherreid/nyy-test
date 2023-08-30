@@ -7,12 +7,14 @@
 		"submit": "es Submit"
 	},
 	"examples": {
-		"formatters": {
+		"format": {
 			"datetime": "Hoy es {{val, datetime}}",
 			"intl-number": "El val formateado sería {{val, number}}",
 			"list": "Una lista de valores como {{val, list}}"
 		},
 		"plurals": {
+			"item_one": "es item",
+			"item_other": "es items",
 			"num-plural_one": "es {{count}} item",
 			"num-plural_other": "es {{count}} items",
 			"num_ordinal_few": "es {{count}}rd place",

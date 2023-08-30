@@ -7,12 +7,14 @@
 		"submit": "ko Submit"
 	},
 	"examples": {
-		"formatters": {
+		"format": {
 			"datetime": "ko 오늘은 {{val, datetime}}",
 			"intl-number": "ko 형식이 지정된 값은 다음과 같습니다. {{val, number}}",
 			"list": "ko 다음과 같은 값 목록 {{val, list}}"
 		},
 		"plurals": {
+			"item_one": "ko item",
+			"item_other": "ko items",
 			"num-plural_one": "ko {{count}} item",
 			"num-plural_other": "ko {{count}} items",
 			"num_ordinal_few": "ko {{count}}rd place",

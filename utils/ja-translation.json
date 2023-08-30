@@ -7,12 +7,14 @@
 		"submit": "ja Submit"
 	},
 	"examples": {
-		"formatters": {
+		"format": {
 			"datetime": "ja 今日は {{val, datetime}}",
 			"intl-number": "ja フォーマットされた val は次のようになります {{val, number}}",
 			"list": "ja 次のような値のリスト {{val, list}}"
 		},
 		"plurals": {
+			"item_one": "ja item",
+			"item_other": "ja items",
 			"num-plural_one": "ja {{count}} item",
 			"num-plural_other": "ja {{count}} items",
 			"num_ordinal_few": "ja {{count}}rd place",

@@ -7,12 +7,14 @@
 		"submit": "Submit"
 	},
 	"examples": {
-		"formatters": {
+		"format": {
 			"datetime": "Today is {{val, datetime}}",
 			"intl-number": "The formatted val would be {{val, number}}",
 			"list": "A list of values like {{val, list}}"
 		},
 		"plurals": {
+			"item_one": "item",
+			"item_other": "items",
 			"num-plural_one": "{{count}} item",
 			"num-plural_other": "{{count}} items",
 			"num_ordinal_few": "{{count}}rd place",
